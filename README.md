@@ -21,8 +21,8 @@ Feel free to contact me, open for collaborations, contributing to open sources, 
 
 You can also see some of my apps here👇
 
-<a href="https://apps.apple.com/us/developer/wilson-munoz/id1012476025"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="50" /></a>
-<a href="https://play.google.com/store/apps/dev?id=6835765821532996808"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" /></a>
+<a href="https://apps.apple.com/us/developer/wilson-munoz/id1012476025" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="50" /></a>
+<a href="https://play.google.com/store/apps/dev?id=6835765821532996808" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" /></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Wilsonilo&theme=dark)](https://git.io/streak-stats)
 
