@@ -19,7 +19,7 @@ Fell in love with tech when i destroyed my dad’s computer when i was 11 and th
 Feel free to contact me, open for collaborations, contributing to open sources, and community engagement, here is my [Website](https://www.wilsonmunoz.net) and my [Twitter](https://twitter.com/yosoywil).
 
 
-You can also see some my apps here👇
+You can also see some of my apps here👇
 
 <a href="https://apps.apple.com/us/developer/wilson-munoz/id1012476025"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="50" /></a>
 <a href="https://play.google.com/store/apps/dev?id=6835765821532996808"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" /></a>
