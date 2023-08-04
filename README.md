@@ -18,6 +18,10 @@ Fell in love with tech when i destroyed my dad’s computer when i was 11 and th
 
 Feel free to contact me, open for collaborations, contributing to open sources, and community engagement, here is my [Website](https://www.wilsonmunoz.net) and my [Twitter](https://twitter.com/yosoywil).
 
+Check my tryhackme learning path:
+<a href="https://tryhackme.com/p/yosoywil" target="_blank">
+<img src="https://tryhackme-badges.s3.amazonaws.com/yosoywil.png" alt="TryHackMe">
+</a>
 
 You can also see some of my apps here👇
 
